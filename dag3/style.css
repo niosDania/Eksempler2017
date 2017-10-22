@@ -1,0 +1,18 @@
+/* Her er noget kommentar  */
+
+body {
+    background-color: #d4e2e5;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+.minklasse {
+    margin-left: 3em;
+    
+}
+
+#min_helt_egen_div {
+    background-color: brown;
+}
